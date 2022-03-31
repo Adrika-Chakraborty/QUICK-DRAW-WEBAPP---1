@@ -1,0 +1,54 @@
+body{
+background-color: lightcoral;
+
+}
+
+h1{
+ 
+font-family: 'Oswald', sans-serif, ;
+color:blue;
+background-color: white;
+font-weight: bold;
+
+}
+
+#show_sketch{
+float:right;
+
+}
+
+#your_sketch{
+    font-weight: bold;
+    color:black;
+
+
+}
+
+#sketch_tobe_drawn{
+
+    color:black
+}
+
+#score{
+
+    font-size:20px;
+    font-weight: bold;
+    color:black;
+    margin-left:5px ;
+
+}
+
+#timer{
+    float:right;
+    font-size:20px;
+    font-weight: bold;
+    color:black;
+    margin-right:5px;
+
+
+}
+
+#sketch_tobe_drawn{
+color:darkgreen
+
+}
